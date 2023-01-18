@@ -1,4 +1,4 @@
-## Installation (React(JS)
+## Installation (React(JS))
 
 ```javascript
 // default
